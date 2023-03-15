@@ -19,3 +19,6 @@ from textblob import TextBlob ,
 from newspaper import Article
 
 Install TextBlob,newspaper3k,tkinter,nltk in your python environment.
+------------------------------------------------------------------------
+
+
