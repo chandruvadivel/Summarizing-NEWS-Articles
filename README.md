@@ -8,11 +8,8 @@ Necessary package need to installed
 #update your pip
 
 pip install --upgrade pip
-
 pip install tkinter
-
 pip install newspaper3k
-
 pip install nltk
 
 from textblob import TextBlob ,
