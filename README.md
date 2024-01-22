@@ -16,6 +16,7 @@ pip install newspaper3k
 pip install nltk
 
 from textblob import TextBlob ,
+
 from newspaper import Article
 
 Install TextBlob,newspaper3k,tkinter,nltk in your python environment.
